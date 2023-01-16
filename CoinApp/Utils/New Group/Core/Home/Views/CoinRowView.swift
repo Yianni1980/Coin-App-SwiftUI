@@ -49,7 +49,8 @@ struct CoinRowView: View {
             
             
         }
-        
+        .padding(.horizontal)
+        .padding(.vertical,4)
         
     }
 }
